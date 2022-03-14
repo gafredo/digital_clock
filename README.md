@@ -12,7 +12,7 @@ A simple page with HTML, CSS and JS, where you can see your current hour in a be
 
 ## Reference
 
-- [Youtube](https://www.youtube.com/watch?v=QcZKsbgsLa4)
+- [Youtube](https://www.youtube.com/watch?v=GK0ok3ZCXwM)
 
 ## License
 
